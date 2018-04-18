@@ -1,0 +1,1 @@
+go to properties in for the project (not solution) mark the project to use "window" and not "console" - the window will be hidden.
